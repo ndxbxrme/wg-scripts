@@ -1,1 +1,1 @@
-"# wg-scripts" 
+# wg-scripts

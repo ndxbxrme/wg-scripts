@@ -1,1 +1,1 @@
-{"name":"Test game","width":1920,"height":1080,"languages":[{"id":"en","name":"English"},{"id":"fr","name":"French"}],"rooms":[],"gui":{"rooms":[]},"ingredients":{},"messages":[]}
+{"name":"Test game","width":1920,"height":1080,"languages":[{"id":"en","name":"English"},{"id":"fr","name":"French"}],"rooms":[],"gui":{"rooms":[]},"ingredients":{"q93rt8cw31c":{"name":"q93rt8cw31c","paths":["q93rt8cw31c_00000.png","q93rt8cw31c_00001.png"],"isVideo":false,"isAudio":false,"isImage":true,"basename":"testtext"}},"messages":[],"userSettings":{"123":{"state":"ingredient-list"}}}
